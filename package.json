@@ -24,8 +24,6 @@
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   },
-  "description": ""
-{
   "name": "continuous-test-code-coverage-guide",
   "scripts": {
     "start": "webpack",
@@ -39,4 +37,4 @@
   }
 
 }
-}
+
