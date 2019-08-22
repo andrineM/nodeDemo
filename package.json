@@ -24,7 +24,7 @@
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   },
-  "name": "continuous-test-code-coverage-guide",
+  "name": "the-continuous-test-code-coverage-guide",
   "scripts": {
     "start": "webpack",
     "test": "jest --coverage --coverageDirectory=output/coverage/jest"
