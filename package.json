@@ -36,7 +36,7 @@
     ]
   },
 
-  "name": "continuous-test-code-guide",
+  "name": "continuous-test-guide",
   "scripts": {
     "start": "webpack",
     "test": "jest --coverage --coverageDirectory=output/coverage/jest"
